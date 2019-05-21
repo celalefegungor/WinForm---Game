@@ -1,0 +1,30 @@
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.exe.config
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.exe
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.pdb
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csprojResolveAssemblyReference.cache
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.Form1.resources
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.Properties.Resources.resources
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csproj.GenerateResource.cache
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csproj.CoreCompileInputs.cache
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.exe
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.pdb
+F:\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.exe.config
+F:\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.exe
+F:\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.pdb
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csprojAssemblyReference.cache
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.Form1.resources
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.Properties.Resources.resources
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csproj.GenerateResource.cache
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csproj.CoreCompileInputs.cache
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.exe
+F:\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.pdb
+E:\Örnekler\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.exe.config
+E:\Örnekler\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.exe
+E:\Örnekler\DolarPatlat\DolarPatlat\bin\Debug\DolarPatlat.pdb
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csprojResolveAssemblyReference.cache
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.Form1.resources
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.Properties.Resources.resources
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csproj.GenerateResource.cache
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.csproj.CoreCompileInputs.cache
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.exe
+E:\Örnekler\DolarPatlat\DolarPatlat\obj\Debug\DolarPatlat.pdb
